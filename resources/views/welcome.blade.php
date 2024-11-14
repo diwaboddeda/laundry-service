@@ -18,7 +18,7 @@
     <div class="container">
         <div class="row align-items-center text-center">
             <div class="col-md-6">
-                <h1 class="display-4">  Ajay Laundry</h1>
+                <h1 class="display-4">Ajay Laundry</h1>
                 <p class="mb-5">Good and affordable service</p>
             </div>
             <div class="col-md-6">
@@ -56,7 +56,10 @@
                    <h1>Location</h1>
                </div>
                <div class="col-md-12 my-4">
-                    <iframe scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=1000&amp;height=500&amp;hl=en&amp;q=pahlawan%20semarang+(laravel%20laundry)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" width="1000" height="500" frameborder="0"></iframe>
+                    <iframe scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" 
+                            src="https://maps.google.com/maps?width=1000&amp;height=500&amp;hl=en&amp;q=Ajay laundry law gate Phagwara Punjab near lovely professional university&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" 
+                            width="1000" height="500" frameborder="0">
+                    </iframe>
                </div>
            </div>
        </div>
